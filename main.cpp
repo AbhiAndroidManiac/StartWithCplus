@@ -1,5 +1,6 @@
 #include <iostream>
 #include "ScopeResolutionOperator.h"
+#include "LearningFunction.h"
 //using namespace std;
 
 int main()
@@ -39,7 +40,12 @@ int main()
 
     std::cout << "I am learning c++" << std::endl;
 
+    //Access the Function Learning class here
+    LearningFunction learningFunction;
+    std::cout<< "The value is "<<learningFunction.setMyNumValue(23) <<std::endl;
+    std::cout<<"The value is "<< learningFunction.setmyStringValue("Hello: The developer name is Abhishek Rocking it. ")<<std::endl;
 
-
+    std::cout<<"The inside int variable is"<<learningFunction.myNum <<std::endl;
+    std::cout<<"The inside string variable is"<<learningFunction.myString<<std::endl;
     return 0;
 }

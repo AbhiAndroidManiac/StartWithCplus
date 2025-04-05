@@ -1,11 +1,19 @@
 # depslib dependency file v1.0
-1743844749 source:e:\insignifacnt\cplusplusgo\startwithcplus\main.cpp
+1743854256 source:e:\insignifacnt\cplusplusgo\startwithcplus\main.cpp
 	<iostream>
 	"ScopeResolutionOperator.h"
+	"LearningFunction.h"
 
 1743847227 e:\insignifacnt\cplusplusgo\startwithcplus\include\scoperesolutionoperator.h
 
 1743847202 source:e:\insignifacnt\cplusplusgo\startwithcplus\src\scoperesolutionoperator.cpp
 	"ScopeResolutionOperator.h"
+	<iostream>
+
+1743854296 e:\insignifacnt\cplusplusgo\startwithcplus\include\learningfunction.h
+	<string>
+
+1743854186 source:e:\insignifacnt\cplusplusgo\startwithcplus\src\learningfunction.cpp
+	"LearningFunction.h"
 	<iostream>
 
