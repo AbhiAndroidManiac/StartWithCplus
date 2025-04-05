@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1743844749 source:e:\insignifacnt\cplusplusgo\startwithcplus\main.cpp
+	<iostream>
+	"ScopeResolutionOperator.h"
+
+1743847227 e:\insignifacnt\cplusplusgo\startwithcplus\include\scoperesolutionoperator.h
+
+1743847202 source:e:\insignifacnt\cplusplusgo\startwithcplus\src\scoperesolutionoperator.cpp
+	"ScopeResolutionOperator.h"
+	<iostream>
+
